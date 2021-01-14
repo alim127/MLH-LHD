@@ -1,0 +1,43 @@
+body
+{
+    background: #ffe6ea;
+
+}
+h1
+{
+    text-align: center;
+    color:  #998888;
+
+}
+#main
+{
+    margin-top: 200px;
+    margin-left: 700px;
+    width: 500px;
+    height: 400px;
+    background-image: url('water2.jpg');
+}
+p
+{
+    padding-top: 30px;
+    padding-left: 140px;
+    color: #998888;
+}
+input
+{
+    transform: translateY(50%);
+    transform: translateX(60%);
+
+}
+button
+{
+    transform: translateY(200%);
+    transform: translateX(60%);
+    border: none;
+    background-color: #ebd5d5;
+    color: #998888;
+    padding: 5px 5px;
+    border-radius: 10%;
+
+}
+
